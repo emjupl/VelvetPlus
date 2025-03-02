@@ -54,4 +54,8 @@ CloseScript(Name,TimeOut=2)
     }
 
 GuiClose:
+CloseScript("autoclickermodule.ahk",TimeOut=2)
+CloseScript("aimassistmodule.ahk",TimeOut=2)
+CloseScript("blockhitmodule.ahk",TimeOut=2)
 ExitApp
+
