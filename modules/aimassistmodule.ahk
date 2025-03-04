@@ -42,7 +42,7 @@ saveButtonYLoc := windowHeight - 40
 CoordMode, Pixel, Screen
 CoordMode, Mouse, Screen
 
-Gui, +ToolWindow +Border
+Gui, +ToolWindow +Border -Caption
 Gui, Color, 0C0C0C
 
 Gui, Font, s11 c0060ff, Dubai Bold
