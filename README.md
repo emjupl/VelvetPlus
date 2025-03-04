@@ -8,3 +8,8 @@ Key features:
   - Automatic Block hit
 
 Comments (if any) are made by ChatGPT, so they can be not accurate.
+
+############################## CHANGELOG FOR AIMASSIST V2.1 ##############################
+[ + ] Improved code speed with appropriate attributes to ensure optimization
+[ + ] In connection with the significant optimization of the code, added the ability to adjust the delay after the correct correction of the cursor
+[ + ] Added tolerance for the color to be detected
